@@ -27,4 +27,3 @@ cd HTML-CSS-Birdwatching
 
 ## LICENSE
 This project is licensed under CC0 (Public Domain) – You are free to use or modify it.
-The original concept was created by Brad Traversy
