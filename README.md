@@ -3,12 +3,12 @@
 Welcome to the **Birdwatching** website! 🐦  
 This project is a **dummy (example) design**, created using only **HTML & CSS** for screen layout purposes.
 
-## 🌟 Features  
+## Features  
 - 📸 A stylish birdwatching-themed interface  
 - 🎨 **A static design built with HTML & CSS**  
 - 🔗 Easy-to-use **navigation menu** 
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1️⃣ Clone the repository:
 ````bash 
@@ -21,7 +21,7 @@ cd HTML-CSS-Birdwatching
 3️⃣ Run the project:
 * Open **index.html** in your browser.
 
-## 🛠 Technologies Used
+## Technologies Used
 * HTML5 – For page structure
 * CSS3 – For design and styling
 
